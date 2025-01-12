@@ -1,2 +1,8 @@
-Developed a customer segmentation model using KMeans Clustering to group customers based on spending behavior, annual income, and age. The dataset included  5 features. Segmented customers into distinct clusters, ensuring quick and efficient analysis. Visualized results through a 3D scatter plot, highlighting clusters by color to interpret patterns clearly. The insights help the company target customers effectively based on their age and spending behavior, enabling the design of efficient marketing strategies and personalized campaigns. 
-![Clustering](https://github.com/user-attachments/assets/4c871bdc-dc7b-4974-bbba-9790ad51e696)
+**Customer Segmentation using KMeans**
+
+Developed a customer segmentation model using KMeans Clustering to group customers based on spending behavior, annual income, and age. The dataset included 5 features. The model segmented customers into distinct clusters, ensuring quick and efficient analysis. Results were visualized through a 3D scatter plot, with clusters highlighted by color to clearly interpret patterns.
+
+![Clustering](https://github.com/user-attachments/assets/0f56ae65-7d77-4b47-bf5b-1948742e4119)
+
+
+These insights enable the company to target customers more effectively based on their age and spending behavior, driving the design of efficient marketing strategies and personalized campaigns.
