@@ -5,6 +5,8 @@ Developed a customer segmentation model using KMeans Clustering to group custome
 ![Clustering](https://github.com/user-attachments/assets/0f56ae65-7d77-4b47-bf5b-1948742e4119)
 
 **Clustering Results**
+
+
 These insights enable the company to target customers more effectively based on their age and spending behavior, driving the design of efficient marketing strategies and personalized campaigns.
 
 ![Clusters](https://github.com/user-attachments/assets/893faab6-d695-41dd-9b37-8db5f6af8612)
