@@ -1,6 +1,72 @@
-**Customer Segmentation using K-Means Clustering**
+# Customer Segmentation
 
-Developed a customer segmentation model using K-Means Clustering to group customers based on spending behavior, annual income, and age. The dataset included 5 features. The model segmented customers into distinct clusters, ensuring quick and efficient analysis. Results were visualized through a 3D scatter plot, with clusters highlighted by color to clearly interpret patterns.
+## Overview
+
+This project performs customer segmentation using unsupervised machine learning techniques to group customers into distinct segments based on their behavioral and demographic attributes. It helps businesses tailor marketing strategies, improve customer experience, and drive targeted promotions.
+
+## Features
+
+* **Data Exploration**: Conducted exploratory data analysis to understand customer attributes and identify patterns.
+* **Preprocessing**: Handled missing values, scaled numerical features, and encoded categorical variables.
+* **Segmentation Techniques**:
+
+  * **K-Means Clustering**: Grouped customers into clusters based on feature similarity.
+  * **Hierarchical Clustering**: Validated cluster structures and provided dendrogram visualizations.
+  * **DBSCAN (optional)**: Identified density-based clusters and outliers.
+* **Cluster Evaluation**:
+
+  * **Silhouette Score**: Assessed the quality of clustering.
+  * **Elbow Method**: Determined the optimal number of clusters for K-Means.
+* **Visualization**:
+
+  * **PCA/T-SNE**: Reduced dimensionality for 2D/3D scatter plots of clusters.
+  * **Cluster Profiles**: Analyzed segment characteristics through summary statistics and bar plots.
+
+## Files
+
+* `Customer_Segmentation.ipynb`: Jupyter notebook with the full workflow, from data loading and preprocessing to clustering, evaluation, and visualization.
+* `README.md`: This documentation file.
+* `.gitignore`: Specifies files and directories ignored by Git (if present).
+* `requirements.txt`: Lists Python dependencies required to run the analysis (if present).
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/akhilesh360/Customer_Segmentation.git
+   cd Customer_Segmentation
+   ```
+2. (Optional) Create and activate a virtual environment:
+
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows: venv\\Scripts\\activate
+   ```
+3. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+1. Launch Jupyter Notebook:
+
+   ```bash
+   jupyter notebook Customer_Segmentation.ipynb
+   ```
+2. Run all cells to execute the segmentation analysis and review visualizations.
+
+## Conclusions
+
+* Identified meaningful customer segments that can be leveraged for targeted marketing.
+* Provided actionable insights into segment sizes, buying patterns, and demographic profiles.
+
+## Author
+
+Created by Sai Akhilesh.
+
 
 ![Clustering](https://github.com/user-attachments/assets/0f56ae65-7d77-4b47-bf5b-1948742e4119)
 
