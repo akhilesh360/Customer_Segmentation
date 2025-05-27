@@ -27,8 +27,7 @@ This project performs customer segmentation using unsupervised machine learning 
 
 * `Customer_Segmentation.ipynb`: Jupyter notebook with the full workflow, from data loading and preprocessing to clustering, evaluation, and visualization.
 * `README.md`: This documentation file.
-* `.gitignore`: Specifies files and directories ignored by Git (if present).
-* `requirements.txt`: Lists Python dependencies required to run the analysis (if present).
+
 
 ## Installation
 
