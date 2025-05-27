@@ -3,6 +3,7 @@
 ## Overview
 
 This project performs customer segmentation using unsupervised machine learning techniques to group customers into distinct segments based on their behavioral and demographic attributes. It helps businesses tailor marketing strategies, improve customer experience, and drive targeted promotions.
+![Clustering](https://github.com/user-attachments/assets/0f56ae65-7d77-4b47-bf5b-1948742e4119)
 
 ## Features
 
@@ -58,18 +59,6 @@ This project performs customer segmentation using unsupervised machine learning 
    ```
 2. Run all cells to execute the segmentation analysis and review visualizations.
 
-## Conclusions
-
-* Identified meaningful customer segments that can be leveraged for targeted marketing.
-* Provided actionable insights into segment sizes, buying patterns, and demographic profiles.
-
-## Author
-
-Created by Sai Akhilesh.
-
-
-![Clustering](https://github.com/user-attachments/assets/0f56ae65-7d77-4b47-bf5b-1948742e4119)
-
 **Clustering Results**
 
 
@@ -80,3 +69,16 @@ These insights enable the company to target customers more effectively based on 
 **Output Insights**
 
 The 3D scatter plot visualizes the clustering results by plotting customers based on their spending behavior, annual income, and age. Each cluster is represented by a distinct color, making it easy to identify key customer segments. The spatial distribution of the clusters shows how different age groups and spending patterns correlate
+
+
+## Conclusions
+
+* Identified meaningful customer segments that can be leveraged for targeted marketing.
+* Provided actionable insights into segment sizes, buying patterns, and demographic profiles.
+
+## Author
+
+Created by Sai Akhilesh.
+
+
+
