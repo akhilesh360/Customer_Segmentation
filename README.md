@@ -13,7 +13,6 @@ This project performs customer segmentation using unsupervised machine learning 
 
   * **K-Means Clustering**: Grouped customers into clusters based on feature similarity.
   * **Hierarchical Clustering**: Validated cluster structures and provided dendrogram visualizations.
-  * **DBSCAN (optional)**: Identified density-based clusters and outliers.
 * **Cluster Evaluation**:
 
   * **Silhouette Score**: Assessed the quality of clustering.
